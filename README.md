@@ -9,3 +9,7 @@ You can change to English Version by selecting the second sheet below.
 ![English Version](https://vip2.loli.io/2023/06/03/gGUDLbvXRslCfBy.webp)
 
 > Note: I will update this sheet daily!
+
+There are some awesome website about ChatGPT plugins.
+
+- [ChatGPT plugins](https://www.chatplugin.top/)

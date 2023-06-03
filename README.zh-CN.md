@@ -9,3 +9,7 @@
 ![Chinese Version](https://vip2.loli.io/2023/06/03/PW9DCV8tRHIMoe3.webp)
 
 > 注：我会每天更新这张表格！
+
+有一些非常nice的有关ChatGPT插件的网站。
+
+- [ChatGPT plugins](https://www.chatplugin.top/)
